@@ -10,3 +10,7 @@
 10. git clone 
 11. git init 
 12. git push [url] [branch_name]
+git push origin 
+13. git branch
+14. git reset [file_name]
+15. git reset --hard
